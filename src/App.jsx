@@ -1,0 +1,1 @@
+import React from 'react';function App(){return(<div><header>Budget Dashboard</header><main><section id="summary"/><section id="form"/><section id="charts"/></main></div>);}export default App;
