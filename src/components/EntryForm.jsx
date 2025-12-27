@@ -1,0 +1,1 @@
+import React from 'react';import useBudgetStore from '../store/useBudgetStore.js';function EntryForm(){return(<form>{/* inputs for type, category, amount, date */}<button type="submit">Save</button></form>);}export default EntryForm;
