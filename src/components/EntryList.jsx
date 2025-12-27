@@ -1,0 +1,1 @@
+import React from 'react';import useBudgetStore from '../store/useBudgetStore.js';function EntryList(){const entries=[];return(<ul>{entries.map(e=>(<li key={e.id}>{e.category}</li>))}</ul>);}export default EntryList;
