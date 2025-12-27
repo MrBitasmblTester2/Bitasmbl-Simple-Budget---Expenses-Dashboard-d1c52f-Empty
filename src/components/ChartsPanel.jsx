@@ -1,0 +1,1 @@
+import React from 'react';import useBudgetStore from '../store/useBudgetStore.js';function ChartsPanel(){const data=[];return(<section>{/* render charts with data */}</section>);}export default ChartsPanel;
