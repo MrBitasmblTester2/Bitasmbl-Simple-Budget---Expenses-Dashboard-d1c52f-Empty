@@ -1,0 +1,1 @@
+export const createEntryActions=(set,get)=>({addEntry:(entry)=>{},updateEntry:(id,data)=>{},removeEntry:(id)=>{}});
