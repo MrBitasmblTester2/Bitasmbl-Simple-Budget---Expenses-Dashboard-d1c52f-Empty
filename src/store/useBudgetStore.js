@@ -1,0 +1,1 @@
+import {create} from 'zustand';const useBudgetStore=create(()=>({entries:[],categories:["Food","Rent"],addEntry:()=>{},updateEntry:()=>{},removeEntry:()=>{},setFilter:()=>{}}));export default useBudgetStore;
